@@ -1,6 +1,8 @@
 # In this app i have simply a counter coded.
-# I have try to test the functions of counter compenent
-
+# I have try to test the functions of counter compenent with react testing library
+  -If you created your app with $npx create-react-app you don't need to install react testing library. If that is not the case, 
+you can add id via npm like so;
+$ npm install --save-dev @testing-library/react
 -----------------------------------------------------------------------------------------------------------------------
 
 ### `yarn install`
